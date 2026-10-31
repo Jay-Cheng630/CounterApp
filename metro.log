@@ -1,0 +1,37 @@
+info Welcome to React Native v0.75
+info Starting dev server on port 8081...
+
+                        ▒▒▓▓▓▓▒▒
+                     ▒▓▓▓▒▒░░▒▒▓▓▓▒
+                  ▒▓▓▓▓░░░▒▒▒▒░░░▓▓▓▓▒
+                 ▓▓▒▒▒▓▓▓▓▓▓▓▓▓▓▓▓▒▒▒▓▓
+                 ▓▓░░░░░▒▓▓▓▓▓▓▒░░░░░▓▓
+                 ▓▓░░▓▓▒░░░▒▒░░░▒▓▒░░▓▓
+                 ▓▓░░▓▓▓▓▓▒▒▒▒▓▓▓▓▒░░▓▓
+                 ▓▓░░▓▓▓▓▓▓▓▓▓▓▓▓▓▒░░▓▓
+                 ▓▓▒░░▒▒▓▓▓▓▓▓▓▓▒░░░▒▓▓
+                  ▒▓▓▓▒░░░▒▓▓▒░░░▒▓▓▓▒
+                     ▒▓▓▓▒░░░░▒▓▓▓▒
+                        ▒▒▓▓▓▓▒▒
+
+
+                Welcome to Metro v0.80.12
+              Fast - Scalable - Integrated
+
+
+info React Native v0.88.1 is now available (your project is running on v0.75.2).
+info Changelog: https://github.com/facebook/react-native/releases/tag/v0.88.1
+info Diff: https://react-native-community.github.io/upgrade-helper/?from=0.75.2&to=0.88.1
+info For more info, check out "https://reactnative.dev/docs/upgrading?os=windows".
+info Dev server ready
+ BUNDLE  ./index.js 
+
+ BUNDLE  ./index.js 
+
+ LOG  Running "CounterApp" with {"rootTag":11}
+ BUNDLE  ./index.js 
+
+ LOG  Running "CounterApp" with {"rootTag":11}
+ BUNDLE  ./index.js 
+
+ LOG  Running "CounterApp" with {"rootTag":11}
